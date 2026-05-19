@@ -47,6 +47,8 @@ The PVP galaxy became the frontier. Resources worth fighting for, no law beyond 
 
 The third galaxy — the thin place — is different. Rifts tear open without warning. Strange signals echo through the void. Ships emerge that were never launched. Some say the original transmissions still arrive here, fragments of consciousness that have been traveling for centuries, finally reaching their destination. The boundary between what was transmitted and what was always here is... uncertain.
 
+Players who spend long enough in the thin place start to notice patterns. A signal that sounds like a reply. A rift that opens at the same coordinates every cycle. A wrecked ship with the same registration number as one you saw *in PVE space last week.* The thin place isn't a galaxy. It's an *interference pattern* — two spaces brushing against each other. What's on the other side isn't a star cluster. It's a question.
+
 ### The Seed
 
 When you arrive in Oa — on whatever world you crash-land on — you find an artifact in the wreckage. A geometric object. A crystal. A seed pod. It responds to your presence.
@@ -76,6 +78,8 @@ The civilizations that have been here longest know things advanced cultures can'
 The destroyer that arrives with antimatter cores and nanolathe technology doesn't intimidate them. The destroyer needs what they know. The negotiation is real.
 
 And if a civilization accepts a reactor and keeps their waterwheel running? That's not inefficiency. That's *home.*
+
+Somewhere in the thin place, there are settlements with no waterwheel at all. No visible infrastructure. No trade routes. No ports. They don't decline your docking request because they don't have a docking request to decline. They simply exist. And if you find one — if you manage to signal it in a way it recognizes — the being you meet won't ask what you need. They'll ask what you've *lost.* Be honest.
 
 ### Perception — What It Feels Like to Be Ci
 
@@ -146,7 +150,9 @@ There are rumors — just rumors — of a station at the edge of the third galax
 
 No one knows who built it or what's there. The pilots who've tried to reach it never came back. Or they came back different. Or they came back and wouldn't talk about it.
 
-The door exists. Finding it is up to you.
+The pilots who *didn't* try to reach it — the ones who were lost, who took the wrong jump, who followed a signal no one else heard, who chose to lose — they sometimes mention it. Not as a destination. As something that *noticed* them.
+
+The door exists. Finding it requires getting lost in the right way.
 
 ---
 
@@ -288,6 +294,7 @@ The door exists. Finding it is up to you.
 | **VR presence** | Your ship's console becomes a room you stand in. Reach out and grab a register. Drag opcodes into place. Watch your OLA script compile on a holographic workbench. Your workshop is *you.* First person becomes real first person — because your body in VR is also a Ci body. The line between "playing the game" and "being in the universe" dissolves. |
 | **Cross-galaxy politics** | Alliances that span all three galaxies. Wars that reshape the map. |
 | **The thing beyond the rifts** | We don't know what's there either. That's the point. |
+| **PVPVEvE** | You won't find this in any navigation terminal. It's not a coordinate. It's not a system. It's what happens when a player has been in the thin place long enough to stop asking "where am I" and start asking "what's noticing me." A few players have been there. Most of them are still there. One of them sends a signal every 84 days. It says nothing. It means everything. |
 
 ---
 
@@ -300,6 +307,8 @@ The door exists. Finding it is up to you.
 **You're not a tourist.** You're a native of this universe. What you build here matters.
 
 **You write the rules.** The player who learns OLA doesn't just play the game — they *extend* it. Automate a trade route. Write a virus for the lulz. Build a diplomatic protocol that negotiates for you while you sleep. The game's scripting language isn't an afterthought. It's the *other half of the game.* Anyone can explore the universe. Scripters *change* it.
+
+**Lose better.** The player who optimizes their trade route gets profit. The player who crashes their ship into a star because they wanted to see what would happen gets *weird loot.* Not participation trophies. Things that don't drop from efficiency. The game doesn't punish failure — it *collects* it. And the collection is visible to anyone who knows where to look.
 
 ---
 
