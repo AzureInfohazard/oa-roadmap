@@ -339,6 +339,7 @@ I'm one person building this in my room. But I didn't start from nothing. These 
 | **Aurora 4x** | That spreadsheets can be exciting. Supply chain depth, branching tech trees, logistics as strategy — complexity is a feature, not a bug. |
 | **Entropia Universe** | That virtual value is real value. A 20-year economy with real cash flow proved it works. |
 | **EVE Online** | That a universe can be *ours* — player-driven, player-governed, player-consequenced. The stories we write together matter more than any script. |
+| **Elite Dangerous** | That a universe can just *exist* — and that's enough. No quest giver. No main story. A galaxy that doesn't care you're in it, and that indifference is the most beautiful thing about it. The Thargoids were there before you. The Guardians were dust before you arrived. You're not the main character. You're just *here.* And that's the whole game. |
 | **Space Station 13** | That chaos is the point. The best stories come from systems interacting in unexpected ways. The clown is essential. OLA is my love letter to every player who bypassed the airlock by exploiting the pipe network. You're not playing the game — you're *writing* it. |
 
 These games built the path. I'm walking it — and hoping to find something new at the end. If you want to walk it with me, you're welcome. 💚
@@ -346,5 +347,3 @@ These games built the path. I'm walking it — and hoping to find something new 
 ---
 
 *Oa Studios. A universe worth getting lost in.*
-
-*Questions? Feedback? [Join our Discord](https://discord.gg/oa)*
