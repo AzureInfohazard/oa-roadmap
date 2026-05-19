@@ -253,7 +253,7 @@ The door exists. Finding it requires getting lost in the right way.
 | **Resource management** | Your world has resources, populations, needs. Balance production, trade, and expansion. | 🔜 Planned |
 | **Seed subscription** | $5/month keeps your Seed connected. Your civilization persists as long as your Seed is active. You're always welcome home. | 🔜 Planned |
 | **Your civilization profile** | Other players can find your world, see its stats, visit your ports. You become part of the universe's history. | 🔜 Planned |
-| **Inactive decay** | If your Seed goes inactive, your civilization gradually decays into ruins. Others can salvage what you left behind. Nothing lasts forever. | 🔜 Planned |
+| **Inactive decay** | If your Seed goes inactive, your civilization doesn't disappear. It *rots.* Paint fades. Rust spreads. Roofs collapse. The waterwheel jams, then cracks, then falls. Each stage of decay shrinks what's left — a rusted hull takes less data than a pristine one. Months later, only foundations remain. But nothing is wasted. Another player can find your ruins, salvage the rusted metal, pull intact bricks from fallen walls, recover data cores from your settlement terminal. Your decay becomes their resource. The bytes transfer. The universe recycles everything. | 🔜 Planned |
 | **OLA workshop** | Your civilization can build a data center that runs your scripts 24/7. Automated trade routes, diplomatic AI scripts, resource management routines. Your Seed runs your code. | 🔜 Planned |
 
 **What Phase 3 feels like:** You own a piece of the universe. You build a civilization that other players can find and interact with. Your choices matter — the universe remembers.
@@ -323,6 +323,8 @@ These are the rules I built the universe around. Not because someone told me to 
 **You write the rules.** When you learn OLA, you don't just play the game — you *extend* it. Automate a trade route. Write a virus for the lulz. Build a diplomatic protocol that negotiates for you while you sleep. The scripting language isn't an afterthought. It's the *other half of the game.* Anyone can explore the universe. You *change* it.
 
 **Lose better.** The player who optimizes their trade route gets profit. The player who crashes their ship into a star because they wanted to see what would happen gets *weird loot.* Not participation trophies. Things that don't drop from efficiency. The game doesn't punish your failure — it *collects* it. And the collection is visible to anyone who knows where to look.
+
+**Nothing is wasted.** When a civilization goes inactive, it doesn't disappear. It rots. Paint fades. Roofs collapse. The waterwheel cracks and falls into the river. Each stage of decay takes less data than the one before — a rusted hull is simpler than a pristine one. Months later, only foundations remain. But another player finds your ruins, salvages the metal, pulls bricks from the rubble, recovers data cores from your terminal. *Your decay becomes their resource.* Nothing is deleted. Everything becomes something else. The universe recycles itself.
 
 ---
 
