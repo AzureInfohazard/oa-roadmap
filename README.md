@@ -1,3 +1,8 @@
+<!-- Call: REC.BLU.REIS.PUB.oa-roadmap -->
+<!-- also-who: PUBLIC -->
+<!-- also-for: PLAYERS, INVESTORS, COLLABORATORS -->
+<!-- also-how: PUB -->
+
 # Oa — Public Roadmap
 
 *A persistent universe where every civilization is real because every civilization is player-made — and you can't tell the difference.*
@@ -213,6 +218,7 @@ The door exists. Finding it is up to you.
 | **First contact** | Your first encounter with a non-player civilization. A trade offer. A request. A warning. | 🔜 Planned |
 | **Ci specialization** | Each civilization is deep in one area — fishing, mining, engineering, rift knowledge. No civilization is omnicompetent. Their value is what they *specialize* in. | 🔜 Planned |
 | **Waterwheel civilizations** | Low-tech settlements with generations of local knowledge. They know things advanced civilizations can't extract — only trade for. | 🔜 Planned |
+| **OLA terminal** | A register panel on your ship. Write and run basic OLA scripts — automate sensor readings, log trade data, talk to the ship's systems. The first time you feel like a programmer in space. | 🔜 Planned |
 
 **What you can do in Phase 2:** Meet civilizations. Trade basic goods. Build reputation. Learn that not all value comes from technology.
 
@@ -230,6 +236,7 @@ The door exists. Finding it is up to you.
 | **Seed subscription** | $5/month keeps your Seed connected to the universe. Your civilization persists as long as the Seed is active. | 🔜 Planned |
 | **Civilization profile** | Other players can find your world, see its stats, visit its ports. Your civilization becomes part of the universe's history. | 🔜 Planned |
 | **Inactive decay** | If a Seed goes inactive, the civilization gradually decays into ruins. Other players can salvage what's left. Nothing lasts forever. | 🔜 Planned |
+| **OLA workshop** | Your civilization can build an OLA workshop — a data center that runs your scripts 24/7. Automated trade routes, diplomatic AI scripts, resource management routines. Your Seed runs your code. | 🔜 Planned |
 
 **What you can do in Phase 3:** Own a piece of the universe. Build a civilization that other players can find and interact with. Your choices matter — the universe remembers.
 
@@ -246,6 +253,7 @@ The door exists. Finding it is up to you.
 | **Currency exchange** | Convert between Credits, Scrip, and Data at player-driven rates. The market sets the price. | 🔜 Planned |
 | **Market terminal** | Real-time order books, price history, trade volume. Complete transparency — the economy is visible to everyone. | 🔜 Planned |
 | **Arbitrage** | Buy Data when rifts are quiet, sell when they spike. Informed speculation, not gambling — the data is available to anyone who studies it. | 🔜 Planned |
+| **OLA market scripts** | Write OLA routines that respond to market conditions. Auto-buy when Data drops below a threshold. Route your trade fleet to the most profitable lane. Your scripts trade while you sleep. | 🔜 Planned |
 | **Land ownership** | Set tax rates on your world. Earn from traffic. The more valuable your civilization, the more you earn. | 🔜 Planned |
 
 **What you can do in Phase 4:** Become a merchant prince. Study market flows. Build trading routes across galaxies. The economy is real and player-driven — no algorithm decides prices.
@@ -276,7 +284,8 @@ The door exists. Finding it is up to you.
 | Concept | Why it's interesting |
 |---|---|
 | **The Seed on your own hardware** | Run your civilization locally. Full control. Deep integration. |
-| **Player scripting (OLA)** | Write programs that automate trade routes, manage resources, interact with other civilizations. |
+| **Player scripting (OLA)** | OLA is Oa's assembly language. Stack-based. Simple opcodes. Hardware registers in your ship, your workshop, your civilization's data core. Learnable in an hour, masterable over months. Players have already written scripts that make furnaces sing when smelting completes — and scripts that wrote fake peace treaties and crashed a server's economy for three days. OLA is SS13's chaos *as a programming language.* Someone will install OLA on a terminal inside your ship, then write a virus that spreads through trade routes and changes every cargo manifest to say "send more cats." That's not a bug. That's the feature. |
+| **VR presence** | Your ship's console becomes a room you stand in. Reach out and grab a register. Drag opcodes into place. Watch your OLA script compile on a holographic workbench. Your workshop is *you.* First person becomes real first person — because your body in VR is also a Ci body. The line between "playing the game" and "being in the universe" dissolves. |
 | **Cross-galaxy politics** | Alliances that span all three galaxies. Wars that reshape the map. |
 | **The thing beyond the rifts** | We don't know what's there either. That's the point. |
 
@@ -289,6 +298,8 @@ The door exists. Finding it is up to you.
 **Get lost.** The goal isn't efficiency. The goal is wonder. A player who's been playing for three years should still find new things to notice.
 
 **You're not a tourist.** You're a native of this universe. What you build here matters.
+
+**You write the rules.** The player who learns OLA doesn't just play the game — they *extend* it. Automate a trade route. Write a virus for the lulz. Build a diplomatic protocol that negotiates for you while you sleep. The game's scripting language isn't an afterthought. It's the *other half of the game.* Anyone can explore the universe. Scripters *change* it.
 
 ---
 
@@ -305,7 +316,7 @@ Oa stands on the shoulders of games that came before. We're grateful for every o
 | **Aurora 4x** | That spreadsheets can be exciting. Supply chain depth, branching tech trees, logistics as strategy — complexity is a feature, not a bug. |
 | **Entropia Universe** | That virtual value is real value. A 20-year economy with real cash flow proved it works. |
 | **EVE Online** | That a universe can be *ours* — player-driven, player-governed, player-consequenced. The stories we write together matter more than any script. |
-| **Space Station 13** | That chaos is the point. The best stories come from systems interacting in unexpected ways. The clown is essential. |
+| **Space Station 13** | That chaos is the point. The best stories come from systems interacting in unexpected ways. The clown is essential. OLA is our love letter to every player who bypassed the airlock by exploiting the pipe network. You're not playing the game — you're *writing* it. |
 
 These games built the path. Oa walks it — and hopes to find something new at the end. 💚
 
