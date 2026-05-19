@@ -320,11 +320,11 @@ The door exists. Finding it requires getting lost in the right way.
 
 ---
 
-## What Inspired Me
+## What Inspired Us
 
-Oa stands on the shoulders of games that came before. I'm grateful for every one.
+Oa stands on the shoulders of games that came before. We're grateful for every one.
 
-| Game | What It Taught Me |
+| Game | What It Taught Us |
 |---|---|
 | **Eco** | That a world can be *alive* — ecosystems that react, governments that players write, consequences that matter. |
 | **Factorio** | That building the machine that builds the machine is its own kind of poetry. The factory must grow — but thoughtfully. |
