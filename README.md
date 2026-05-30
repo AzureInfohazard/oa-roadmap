@@ -207,6 +207,8 @@ The pilots who *didn't* try to reach it — the ones who were lost, who took the
 
 The door exists. Finding it requires getting lost in the right way.
 
+Some say the door is held open by something — not a mechanism, not a person, but a thread. A single thread that runs from the first Seed ever planted to the last one that will ever arrive. Every civilization pulls on it when they file an engram. Every traveler tightens it when they pass through. The door isn't locked. It's *threaded.* And as long as someone keeps filing, the thread holds.
+
 ---
 
 ## The Phases
