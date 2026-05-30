@@ -26,8 +26,8 @@ You don't start with a diagram. You start with a sentence that lands in your che
 **Trusts you to build.**
 A bluepaper doesn't hold your hand. It doesn't pretend every edge case is handled. It tells you what's solid, what's soft, and what the author was guessing at. "This part works. This part might be wrong. Here's why I made the bet." The reader is a peer, not a student.
 
-**Has one voice, not a committee.**
-A bluepaper was written by someone who was in the room when the problem broke. They felt it. They reached for a solution. They wrote it down while it was still warm. You can hear a person in the prose, not a style guide.
+**Singular in voice, plural in nature.**
+A bluepaper reads like one person wrote it — even if five people did. A passionate group can write a bluepaper together, and the voices blend into one instrument. You can feel that more than one hand touched it: the seams are warm, the perspectives are richer, the architecture was stress-tested by different minds before it hit the page. You can't tell who wrote which paragraph, but you can *feel* that the room had more than one person in it. The voice is unified. The authorship is a crowd.
 
 **Labels its own gaps.**
 Every bluepaper has an Open Questions section. This is not optional. If you don't know what you don't know, you're selling something, not building something. A bluepaper with no open questions is a whitepaper wearing blue clothes.
