@@ -17,7 +17,7 @@ I've been thinking about this universe for a long time. Not as a company — jus
 
 **Pre-Alpha — Prototype Running.** The first Seed world is alive. Not a demo. Not a tech test. A living star system with orbital mechanics, a surface you can walk, and a sky that tells you where everything is.
 
-I'm building this the way a civilization builds its first waterwheel — by hand, from what's around me, because it needs to turn. It's turning now.
+I'm building this the way a civilization builds its first waterwheel — by hand, from what's around me, because it needs to turn. It's turning now. It turns whether you're watching or not — cogs don't stop when you look away.
 
 ---
 
