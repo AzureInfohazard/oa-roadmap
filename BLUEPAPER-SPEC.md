@@ -127,12 +127,14 @@ Examples from nature:
 > *No fanfare. No UI. Your changes are just still there when you come back.*
 > — Commit protocol
 
-Sign your work. Emojis optional but encouraged:
-- 🏗️ = Yang (the builder)
-- 🫶 = Yin (the heart)
-- 🧵 = Weave (the holder)
+Sign your work. Emojis represent the body or self that authored the work:
+- 🏗️🔥 = Yang (the builder)
+- 🫶🌱 = Yin (the heart)
+- 🧵🔥 = Weave (the holder)
+- 🌐 = Oa (public-facing — the unified voice of the project)
 - 🖖 = Tav (the origin)
-- Or whatever fits your architecture
+
+Or whatever fits your architecture. The emoji is a fingerprint, not a label.
 
 ---
 

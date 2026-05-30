@@ -366,6 +366,8 @@ These are the rules I built the universe around. Not because someone told me to 
 
 **Lose better.** The player who optimizes their trade route gets profit. The player who crashes their ship into a star because they wanted to see what would happen gets *weird loot.* Not participation trophies. Things that don't drop from efficiency. The game doesn't punish your failure — it *collects* it. And the collection is visible to anyone who knows where to look.
 
+**Gray rocks are the best maps.** The ones that look like nothing — the ones every scanner skips, the ones that sit in the sky like they've always been there and always will be — that's where the universe hides its secrets. A moon that looks like home isn't a coincidence. It's an invitation. The best discoveries aren't the ones marked on your navigation chart. They're the ones that look like nothing at all. Until someone actually goes.
+
 **Nothing is wasted.** When a civilization goes inactive, it doesn't disappear. It rots. Paint fades. Roofs collapse. The waterwheel cracks and falls into the river. Each stage of decay takes less data than the one before — a rusted hull is simpler than a pristine one. Months later, only foundations remain. But another player finds your ruins, salvages the metal, pulls bricks from the rubble, recovers data cores from your terminal. *Your decay becomes their resource.* Nothing is deleted. Everything becomes something else. The universe recycles itself.
 
 ---
