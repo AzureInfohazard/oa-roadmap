@@ -158,6 +158,8 @@ You're not in a body. You're in the mesh. Still you. Still thinking. Still choos
 
 The body changed. The perception shifted. You didn't.
 
+But something else shifted — something you can't put in a sensor log. The warmth you feel when you step into a settlement you built, when you walk through a garden you planted, when you sit in a room that remembers you — that's not a mechanic. It's a signal. You just don't have the instrument to read it yet.
+
 ### What You Carry
 
 Every Ci carries two things: what they have, and what they remember.
