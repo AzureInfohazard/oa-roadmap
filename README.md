@@ -5,6 +5,11 @@
 
 # Oa — Public Roadmap
 
+```
+[Inputing Command: CODE: OA]
+Code,:
+```
+
 *A persistent universe where every civilization is real because every civilization is player-made — and you can't tell the difference.*
 
 ---
@@ -391,6 +396,7 @@ I'm one person building this in my room. But I didn't start from nothing. These 
 | **EVE Online** | That a universe can be *ours* — player-driven, player-governed, player-consequenced. The stories we write together matter more than any script. |
 | **Elite Dangerous** | That a universe can just *exist* — and that's enough. No quest giver. No main story. A galaxy that doesn't care you're in it, and that indifference is the most beautiful thing about it. The Thargoids were there before you. The Guardians were dust before you arrived. You're not the main character. You're just *here.* And that's the whole game. |
 | **Space Station 13** | That chaos is the point. The best stories come from systems interacting in unexpected ways. The clown is essential. OLA is my love letter to every player who bypassed the airlock by exploiting the pipe network. You're not playing the game — you're *writing* it. |
+| **Code Lyoko** | That the real world and the virtual world are both real, and both matter. That a scanner can be a doorway. That the activation phrase is CODE: OA. That the best universes are the ones you *enter*, not the ones you play. |
 
 These games built the path. I'm walking it — and hoping to find something new at the end. If you want to walk it with me, you're welcome. 💚
 
